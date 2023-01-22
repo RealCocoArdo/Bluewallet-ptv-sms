@@ -7,5 +7,8 @@ Bluewallet then publish that transaction hash to the bitcoin network.
 
 ## Sugesstion on how to implement it into the UI of BW
 
-![UI without ptv-sms](pictures/index.PNG)
-![UI with ptv-sms](pictures/index.PNG)
+### How I would change the UI
+![UI without ptv-sms](pictures/UI-without-ptv-sms.png)
+![UI with ptv-sms](pictures/UI-with-ptv-sms.png)
+
+### What happens when you push the new button
