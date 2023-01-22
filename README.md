@@ -16,3 +16,5 @@ The button should contain a link or function simular to this:
 
 <br>When someone now clicks on the new button, their SMS app will be launched with the tx hash as pre-written message.
 <br>The user then only needs to hit send.
+
+## more comming soon
